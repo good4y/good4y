@@ -32,3 +32,4 @@ https://programmers.co.kr/learn/courses/30/lessons/12944/solution_groups?languag
 for each 구문을 활용하여 더 직관적으로 표현 가능하다.    
 import java.util.Arrays ==> 라이브러리 활용 가능  
 상대적으로 쉬운 문제임에도 불구하고 에러 처리를 고민하는 풀이법도 있었다.(Null 체크)  
+2.5같이 소수점이 붙을 경우 long이나 int 타입은 2로 저장됨   
