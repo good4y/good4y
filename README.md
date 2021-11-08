@@ -28,9 +28,10 @@
 1. 두 정수 사이의 합
 https://programmers.co.kr/learn/courses/30/lessons/12912/solution_groups?language=java&type=all  
 **등차수열의 합 공식 활용 가능**  
-상대적으로 쉬운 문제임에도 불구하고 에러 처리를 고민하는 풀이법도 있었다.(Null 체크)  
+Math.max, min 사용  
 
 2. 평균 구하기  
 https://programmers.co.kr/learn/courses/30/lessons/12944/solution_groups?language=java&type=all  
 for each 구문을 활용하여 더 직관적으로 표현 가능하다.  
 import java.util.Arrays ==> 라이브러리 활용 가능  
+상대적으로 쉬운 문제임에도 불구하고 에러 처리를 고민하는 풀이법도 있었다.(Null 체크)  
