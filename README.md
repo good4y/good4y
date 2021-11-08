@@ -24,7 +24,7 @@
 자바를 이용하여 프로그래머스 사이트에서 알고리즘 구현 연습을 했다.  
 1. 두 정수 사이의 합  
 https://programmers.co.kr/learn/courses/30/lessons/12912/solution_groups?language=java&type=all  
-**등차수열의 합 공식 활용 가능** 수학적인 접근이 상당히 인상적이다. 
+**등차수열의 합 공식 활용 가능** 수학적인 접근이 상당히 인상적이다.  
 Math 클래스를 이용할 수 있다.  
 
 2. 평균 구하기
