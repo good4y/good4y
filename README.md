@@ -21,5 +21,10 @@
 
 ## 1일 차
 자바를 이용하여 프로그래머스 사이트에서 알고리즘 구현 연습을 했다.
+1. 두 정수 사이의 합
 https://programmers.co.kr/learn/courses/30/lessons/12912/solution_groups?language=java&type=all
+import java.util.Arrays ==> 라이브러리 활용 가능
+등차수열의 합 공식 활용 가능
+
+2. 평균 구하기
 https://programmers.co.kr/learn/courses/30/lessons/12944/solution_groups?language=java&type=all
