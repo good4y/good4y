@@ -12,3 +12,14 @@
 나는 백엔드와 기상청 날씨 API를 이용한 날씨 정보 알림 구현을 맡았는데 결국 API 구현에는 실패했다.
 그 이유로는 첫 번째로 SORS에러였고, 두 번째는 금요일에 너무 많은 데이터가 들어와 데이터를 가공하는 부분이었다.
 추후에 좀 더 공부해서 구현을 시도 해 봐야겠다.
+
+
+
+# 항해 2주차
+- 기간 : 21. 11. 8 ~ 21. 11. 13
+- 팀원 : 김영철, 김종욱, 김원석, 김우식 
+
+## 1일 차
+자바를 이용하여 프로그래머스 사이트에서 알고리즘 구현 연습을 했다.
+https://programmers.co.kr/learn/courses/30/lessons/12912/solution_groups?language=java&type=all
+https://programmers.co.kr/learn/courses/30/lessons/12944/solution_groups?language=java&type=all
