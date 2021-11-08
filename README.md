@@ -20,15 +20,15 @@
 - 기간 : 21. 11. 8 ~ 21. 11. 13
 - 팀원 : 김영철, 김종욱, 김원석, 김우식 
 
-## 1일 차
-자바를 이용하여 프로그래머스 사이트에서 알고리즘 구현 연습을 했다.
-1. 두 정수 사이의 합
-https://programmers.co.kr/learn/courses/30/lessons/12912/solution_groups?language=java&type=all
+## 1일 차  
+자바를 이용하여 프로그래머스 사이트에서 알고리즘 구현 연습을 했다.  
+1. 두 정수 사이의 합  
+https://programmers.co.kr/learn/courses/30/lessons/12912/solution_groups?language=java&type=all  
 **등차수열의 합 공식 활용 가능** 수학적인 접근이 상당히 인상적이다. 
-Math 클래스를 이용할 수 있다.
+Math 클래스를 이용할 수 있다.  
 
 2. 평균 구하기
-https://programmers.co.kr/learn/courses/30/lessons/12944/solution_groups?language=java&type=all
-for each 구문을 활용하여 더 직관적으로 표현 가능하다.  
+https://programmers.co.kr/learn/courses/30/lessons/12944/solution_groups?language=java&type=all  
+for each 구문을 활용하여 더 직관적으로 표현 가능하다.    
 import java.util.Arrays ==> 라이브러리 활용 가능  
 상대적으로 쉬운 문제임에도 불구하고 에러 처리를 고민하는 풀이법도 있었다.(Null 체크)  
