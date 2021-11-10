@@ -56,4 +56,27 @@ stream라이브러리, lambda 식??
 숫자의 길이가 필요할 때? String 변수에 숫자 저장하고 .length() 이용 가능  
 ==> 수적인 계산이 필요 없을 때는 String과 함께 쓸 수 있는 함수들 적극 이용해보기.  
 22. (int)Math.log10(n)+1 로그함수를 이용하여 자연수의 자릿수를 구할 수 있다!  
-split(" ", -1); 공백 제거 후 마지막 공백은 날려버림?
+split(" ", -1); 공백 제거 후 마지막 공백은 날려버림?  
+
+// int[] answer2 = {-1};
+//         int leng = arr.length;
+//         int[] answer = new int[arr.length - 1];
+//         for(int i = 0; i < arr.length - 1; i++){
+//             answer[i] = arr[i];
+//             leng--;
+//         } 
+//         return arr.length == 1 ? answer2 : answer;
+
+
+class Solution {
+//     public long solution(long n) {
+//         long answer = 0;
+//         float a = 0;
+        
+//         a = Math.sqrt(n);
+//         if(a != Math.ceil(a))
+//             answer = -1;
+//         int num = int(a);
+//         return answer;
+//     }
+// }
