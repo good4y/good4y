@@ -86,3 +86,8 @@ challenge 도전!
 리턴값 변경 가능
 40번 까지 풀기
 카카오로그인 문제로 정규식을 익혔다.
+
+## 5일 차  
+Character.isLowerCase ==> char형 소문자 구분(true, false)  
+.matches("[a-z?]") ==> string형 소문자 구분  
+backstacking??  
