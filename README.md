@@ -23,15 +23,13 @@
 ## 1일 차  
 자바를 이용하여 프로그래머스 사이트에서 알고리즘 구현 연습을 했다.  
 1. 두 정수 사이의 합  
-https://programmers.co.kr/learn/courses/30/lessons/12912/solution_groups?language=java&type=all  
 **등차수열의 합 공식 활용 가능** 수학적인 접근이 상당히 인상적이다.  
 Math 클래스를 이용할 수 있다.  
 
 2. 평균 구하기
-https://programmers.co.kr/learn/courses/30/lessons/12944/solution_groups?language=java&type=all  
 for each 구문을 활용하여 더 직관적으로 표현 가능하다.    
 import java.util.Arrays ==> 라이브러리 활용 가능  
-상대적으로 쉬운 문제임에도 불구하고 에러 처리를 고민하는 풀이법도 있었다.(Null 체크)  
+쉬운 문제임에도 불구하고 에러 처리를 고민하는 풀이법도 있었다.(Null 체크)  
 2.5같이 소수점이 붙을 경우 long이나 int 타입은 2로 저장됨   
 stream라이브러리, lambda 식??
 
@@ -43,7 +41,7 @@ stream라이브러리, lambda 식??
 20번까지 풀기.
 최대한 프로그래머스 점수를 많이 받고 싶다.  
 아직은 라이브러리를 계속 검색하게 된다.  
-문자열 검색에는 .equals()를 쓴다.(계속 연산자로 표현하려함)  
+문자열 검색에는 string.equals()를 쓴다.(계속 연산자로 표현하려함)  
 
 30분 이상 고민하지 않고 풀어보기(다양한 유형을 접해보기)   
 시간복잡도, 공간복잡도, 배열, 정렬, 배열의탐색, 이분탐색, 스택, 큐, 해쉬, 힙, DFS, BFS 개념 정리
@@ -58,29 +56,6 @@ stream라이브러리, lambda 식??
 22. (int)Math.log10(n)+1 로그함수를 이용하여 자연수의 자릿수를 구할 수 있다!  
 split(" ", -1); 공백 제거 후 마지막 공백은 날려버림?  
 
-// int[] answer2 = {-1};
-//         int leng = arr.length;
-//         int[] answer = new int[arr.length - 1];
-//         for(int i = 0; i < arr.length - 1; i++){
-//             answer[i] = arr[i];
-//             leng--;
-//         } 
-//         return arr.length == 1 ? answer2 : answer;
-
-
-class Solution {
-//     public long solution(long n) {
-//         long answer = 0;
-//         float a = 0;
-        
-//         a = Math.sqrt(n);
-//         if(a != Math.ceil(a))
-//             answer = -1;
-//         int num = int(a);
-//         return answer;
-//     }
-// }
-
 ## 4일 차  
 challenge 도전!
 리턴값 변경 가능
@@ -91,3 +66,7 @@ challenge 도전!
 Character.isLowerCase ==> char형 소문자 구분(true, false)  
 .matches("[a-z?]") ==> string형 소문자 구분  
 backstacking??  
+
+## 6일 차
+항해 99 2주차의 마지막 공식 일정이며 알고리즘 테스트가 있는 날이다.  
+알고리즘 공부를 하며 조건문, 반복문 위주로만 사용을 하다 보니 다른 문법에 익숙해지지 못했다.   
