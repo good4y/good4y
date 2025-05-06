@@ -41,9 +41,6 @@
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-# 📊GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=good4y&theme=radical&hide_border=true)<br/>
-
 ---
 
 ## 💼 주요 프로젝트
