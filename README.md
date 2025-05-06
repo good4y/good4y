@@ -49,7 +49,7 @@
 - Spring Security 기반 인증/인가, 클럽 초대/조회 API 개발  
 - TMDb 영화 데이터 배치 처리 및 맞춤 필터링 배치 구축  
 - Materialized 서브쿼리로 검색 속도 98% 개선 (7초 → 0.15초)  
-- Redisson 분산락으로 이벤트 당첨자 정합성 확보  
+- Redis stream과 FCM을 활용한 비동기 알림 구현
 - API-First 개발 방식으로 프론트엔드 협업 최적화
 
 ---
